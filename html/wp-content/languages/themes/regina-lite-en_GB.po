@@ -1,0 +1,1500 @@
+# Translation of Themes - Regina Lite in English (UK)
+# This file is distributed under the same license as the Themes - Regina Lite package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-29 03:37:31+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Regina Lite\n"
+
+#. Description of the plugin/theme
+msgid "Regina Lite is one of the best free medical WordPress themes, suitable for medical clinics, dentistry websites, medical research facilities and more. Explore Regina Lite - a responsive medical WordPress template with a ton of bundled options."
+msgstr "Regina Lite is one of the best free medical WordPress themes, suitable for medical clinics, dentistry websites, medical research facilities and more. Explore Regina Lite - a responsive medical WordPress template with a ton of bundled options."
+
+#: searchform.php:8
+msgctxt "submit button"
+msgid "Search"
+msgstr "Search"
+
+#: searchform.php:5
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "Search &hellip;"
+
+#: searchform.php:4
+msgctxt "label"
+msgid "Search for:"
+msgstr "Search for:"
+
+#: inc/customizer/panels/testimonials.php:17
+msgid "Control all the Testimonial Section settings from this panel. Adding more testimonials is possible only in the PRO version of Regina."
+msgstr "Control all the Testimonial Section settings from this panel. Adding more testimonials is possible only in the PRO version of Regina."
+
+#: inc/customizer/panels/speak.php:15
+msgid "This section is mostly used as a final call-to-action. Be mindful of the text you enter here and make sure they're phrased in such a way that they draw attention."
+msgstr "This section is mostly used as a final call to action. Be mindful of the text you enter here and make sure they're phrased in such a way that they draw attention."
+
+#: inc/customizer/panels/speak.php:14
+msgid "Speak With Our Doctors"
+msgstr "Speak With Our Doctors"
+
+#: inc/customizer/panels/site.php:292
+msgid "Enter the URL you want to use for the book appointment button."
+msgstr "Enter the URL you want to use for the Book Appointment button."
+
+#: inc/customizer/panels/site.php:255 inc/customizer/panels/site.php:274
+msgid "Will be displayed in the header & footer contact widget."
+msgstr "Will be displayed in the header & footer contact widget."
+
+#: inc/customizer/panels/site.php:254
+msgid "Email address"
+msgstr "Email address"
+
+#: inc/customizer/panels/site.php:164 inc/customizer/panels/site.php:182
+#: inc/customizer/panels/site.php:200 inc/customizer/panels/site.php:218
+#: inc/customizer/panels/site.php:236
+msgid "Will be displayed in the header contact bar."
+msgstr "Will be displayed in the header contact bar."
+
+#: inc/customizer/panels/site.php:98
+msgid "Unlimited Google Maps are available in the PRO version of Regina. "
+msgstr "Unlimited Google Maps are available in the PRO version of Regina. "
+
+#: inc/customizer/panels/site.php:74
+msgid "Drag & Drop section re-ordering is available in the PRO version of Regina."
+msgstr "Drag & Drop section re-ordering is available in the PRO version of Regina."
+
+#: inc/customizer/panels/site.php:47
+msgid "Theme Options"
+msgstr "Theme Options"
+
+#: inc/customizer/panels/our-team.php:17
+msgid "Control all the Team Section settings from this panel. Adding more members to the team is a PRO feature only."
+msgstr "Control all the Team Section settings from this panel. Adding more members to the team is a PRO feature only."
+
+#: inc/customizer/panels/our-team.php:16
+msgid "Our Team"
+msgstr "Our Team"
+
+#: inc/customizer/panels/news.php:11
+msgid "Latest News Section is displayed as a slider on the homepage. Controls from this section are applied to that slider."
+msgstr "Latest News Section is displayed as a slider on the homepage. Controls from this section are applied to that slider."
+
+#: inc/customizer/panels/features.php:104
+msgid "Control general settings for this section."
+msgstr "Control general settings for this section."
+
+#: inc/customizer/panels/features.php:92
+msgid "Tip: Use full URLs here instead of relative ones."
+msgstr "Tip: Use full URLs here instead of relative ones."
+
+#: inc/customizer/panels/features.php:69
+msgid "Our team of specialists is ready to help you. Book an appointment now!"
+msgstr "Our team of specialists is ready to help you. Book an appointment now!"
+
+#: inc/customizer/panels/features.php:44
+msgid "Show the blue box?"
+msgstr "Show the blue box?"
+
+#: inc/customizer/panels/features.php:28
+msgid "Use this section for your main call-to-action text."
+msgstr "Use this section for your main call-to-action text."
+
+#: inc/customizer/panels/features.php:17
+msgid "Control everything related to the Services section from this panel. Custom Colors & Icons are a PRO feature only."
+msgstr "Control everything related to the Services section from this panel. Custom Colours & Icons are a PRO feature only."
+
+#: inc/customizer/panels/advanced.php:53
+msgid "This setting will affect all instances of the Book Appointment button."
+msgstr "This setting will affect all instances of the Book Appointment button."
+
+#: inc/customizer/panels/advanced.php:52
+msgid "Book Appointment Button Label:"
+msgstr "Book Appointment Button Label:"
+
+#: inc/customizer/panels/advanced.php:36
+msgid "Image to be used as background for all page titles. "
+msgstr "Image to be used as background for all page titles. "
+
+#: inc/customizer/panels/advanced.php:35
+msgid "Page Header Image:"
+msgstr "Page Header Image:"
+
+#: inc/customizer/customizer.php:92
+msgid "Regina PRO supports 3rd level drop-down menus. It also comes bundled with 3 different header layouts."
+msgstr "Regina PRO supports 3rd level dropdown menus. It also comes bundled with 3 different header layouts."
+
+#: inc/customizer/customizer.php:77
+msgid "Dropdown Menus"
+msgstr "Dropdown Menus"
+
+#: inc/customizer/customizer.php:66
+msgid "Color controls are available in the PRO version of Regina. Make it look the way you want to."
+msgstr "Colour controls are available in the PRO version of Regina. Make it look the way you want to."
+
+#: inc/customizer/customizer.php:51
+msgid "Color Controls"
+msgstr "Colour Controls"
+
+#: inc/customizer/customizer.php:41
+msgid "Regina PRO comes bundled with over 700 premium icons. You can also upload your own custom icons."
+msgstr "Regina PRO comes bundled with over 700 premium icons. You can also upload your own custom icons."
+
+#: inc/customizer/customizer.php:26
+msgid "Custom Icons"
+msgstr "Custom Icons"
+
+#: inc/customizer/custom-controls/pro-controls-selector.php:33
+msgid "See live demo"
+msgstr "See live demo"
+
+#: inc/components/nav-walker/class.mt-nav-walker.php:148
+msgid "Team"
+msgstr "Team"
+
+#: inc/customizer/custom-controls/pro-controls-selector.php:27
+msgid "Get Pro"
+msgstr "Get Pro"
+
+#: inc/components/nav-walker/class.mt-nav-walker.php:150
+msgid "News"
+msgstr "News"
+
+#: sections/section-news.php:7
+msgid "See our blog"
+msgstr "See our blog"
+
+#: inc/customizer/panels/news.php:10 sections/section-news.php:4
+msgid "Latest News"
+msgstr "Latest News"
+
+#: inc/components/contact-bar/class.mt-contact-bar.php:100 searchform.php:7
+msgid "Go"
+msgstr "Go"
+
+#: widgets/widget-contact.php:117
+msgid "Instagram Link:"
+msgstr "Instagram Link:"
+
+#: inc/tgmpa/tgm-plugin-activation.php:105
+msgid "All plugins installed and activated successfully. %s"
+msgstr "All plugins installed and activated successfully. %s"
+
+#: inc/tgmpa/tgm-plugin-activation.php:100
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgstr[1] "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+
+#: inc/tgmpa/tgm-plugin-activation.php:99
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[1] "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+
+#: inc/tgmpa/tgm-plugin-activation.php:98
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgstr[1] "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+
+#: inc/tgmpa/tgm-plugin-activation.php:97
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "The following recommended plugin is currently inactive: %1$s."
+msgstr[1] "The following recommended plugins are currently inactive: %1$s."
+
+#: inc/tgmpa/tgm-plugin-activation.php:96
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "The following required plugin is currently inactive: %1$s."
+msgstr[1] "The following required plugins are currently inactive: %1$s."
+
+#: inc/tgmpa/tgm-plugin-activation.php:95
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgstr[1] "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+
+#: inc/tgmpa/tgm-plugin-activation.php:94
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "This theme recommends the following plugin: %1$s."
+msgstr[1] "This theme recommends the following plugins: %1$s."
+
+#: inc/tgmpa/tgm-plugin-activation.php:93
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "This theme requires the following plugin: %1$s."
+msgstr[1] "This theme requires the following plugins: %1$s."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "All installations have been completed."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s installed successfully."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "The installation process is starting. This process may take a while on some hosts, so please be patient."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "All installations and activations have been completed."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Hide Details"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Show Details"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Updating Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Plugin activation failed."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "No plugins are available to be activated at this time."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No plugins were selected to be activated. No action taken."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "No plugins are available to be updated at this time."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "No plugins are available to be installed at this time."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No plugins were selected to be updated. No action taken."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No plugins were selected to be installed. No action taken."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activate"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Update"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Install"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade message from the plugin author:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activate %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Install %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Version"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Source"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No plugins to install, update or activate."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Available version:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Minimum required version:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Installed version:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "unknown"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "To Activate <span class=\"count\">(%s)</span>"
+msgstr[1] "To Activate <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Update Available <span class=\"count\">(%s)</span>"
+msgstr[1] "Update Available <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "To Install <span class=\"count\">(%s)</span>"
+msgstr[1] "To Install <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "All <span class=\"count\">(%s)</span>"
+msgstr[1] "All <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Update recommended"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Requires Update"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Required Update not Available"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Active"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Installed But Not Activated"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "External Source"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recommended"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Required"
+
+#. translators: %s: version number
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "and"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Update Required"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "This plugin needs to be updated to be compatible with your theme."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Please contact the administrator of this site for help."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "There are one or more required or recommended plugins to install, update or activate."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Dismiss this notice"
+
+#. translators: 1: dashboard link.
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "All plugins installed and activated successfully. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+
+#. translators: 1: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No action taken. Plugin %1$s was already active."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr "The following plugin was activated successfully:"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+#: inc/tgmpa/tgm-plugin-activation.php:104
+msgid "Plugin activated successfully."
+msgstr "Plugin activated successfully."
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Return to the Dashboard"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+#: inc/tgmpa/tgm-plugin-activation.php:103
+msgid "Return to Required Plugins Installer"
+msgstr "Return to Required Plugins Installer"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+#: inc/tgmpa/tgm-plugin-activation.php:102
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin activating plugin"
+msgstr[1] "Begin activating plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begin updating plugin"
+msgstr[1] "Begin updating plugins"
+
+#. translators: 1: plugin name(s).
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+#: inc/tgmpa/tgm-plugin-activation.php:101
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin installing plugin"
+msgstr[1] "Begin installing plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+#: inc/tgmpa/tgm-plugin-activation.php:92
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Updating Plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+#: inc/tgmpa/tgm-plugin-activation.php:91
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+#: inc/tgmpa/tgm-plugin-activation.php:90
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+#: inc/tgmpa/tgm-plugin-activation.php:89
+msgid "Install Required Plugins"
+msgstr "Install Required Plugins"
+
+#: inc/customizer/panels/site.php:235
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: inc/customizer/panels/news.php:65 inc/customizer/panels/news.php:76
+msgid "Number of post per slide"
+msgstr "Number of post per slide"
+
+#: inc/customizer/panels/news.php:53
+msgid "Section sub-title"
+msgstr "Section sub-title"
+
+#: inc/customizer/panels/news.php:48 sections/section-news.php:5
+msgid "Straight from our blog"
+msgstr "Straight from our blog"
+
+#: inc/customizer/panels/news.php:41
+msgid "Section title"
+msgstr "Section title"
+
+#: inc/customizer/panels/news.php:36
+msgid "Latest news"
+msgstr "Latest news"
+
+#: inc/customizer/panels/features.php:27
+msgid "Blue Box on Hero Image"
+msgstr "Blue Box on Hero Image"
+
+#: inc/customizer/panels/advanced.php:17
+msgid "Advanced Settings"
+msgstr "Advanced Settings"
+
+#: inc/components/contact-bar/class.mt-contact-bar.php:84
+#: widgets/widget-contact.php:53
+msgid "Instagram"
+msgstr "Instagram"
+
+#: footer.php:8 inc/customizer/panels/site.php:335
+msgid "&copy; Copyright 2016. All Rights Reserved."
+msgstr "&copy; Copyright 2016. All Rights Reserved."
+
+#: inc/customizer/panels/site.php:324
+msgid "This will display the theme name with a back-link to the site of the theme developers. Leave it if you wish to give credit where it's due"
+msgstr "This will display the theme name with a back-link to the site of the theme developers. Leave it if you wish to give credit where it's due"
+
+#: inc/customizer/panels/site.php:323
+msgid "Enable footer theme copyright message"
+msgstr "Enable footer theme copyright message"
+
+#: inc/customizer/panels/site.php:83
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: inc/customizer/panels/site.php:59
+msgid "Section order"
+msgstr "Section order"
+
+#: inc/customizer/panels/features.php:166
+msgid "Button Text:"
+msgstr "Button Text:"
+
+#: inc/customizer/panels/features.php:16 inc/customizer/panels/features.php:129
+#: inc/customizer/panels/features.php:160 sections/section-home-features.php:15
+#: sections/section-home-features.php:17
+msgid "Our Services"
+msgstr "Our Services"
+
+#: inc/components/nav-walker/class.mt-nav-walker.php:151
+msgid "Contact"
+msgstr "Contact"
+
+#: inc/components/nav-walker/class.mt-nav-walker.php:147
+msgid "Services"
+msgstr "Services"
+
+#: inc/components/contact-bar/class.mt-contact-bar.php:40
+#: inc/customizer/panels/site.php:248
+msgid "contact@site.com"
+msgstr "contact@site.com"
+
+#: inc/customizer/panels/advanced.php:91
+msgid "Initial status: enabled. If you don't like the fact that the search form is shown in the header, un-check this."
+msgstr "Initial status: enabled. If you don't like the fact that the search form is shown in the header, un-check this."
+
+#: inc/customizer/panels/advanced.php:90
+msgid "Enable search box in header?"
+msgstr "Enable search box in header?"
+
+#: inc/extras.php:212
+msgid "View PRO version"
+msgstr "View PRO version"
+
+#: inc/customizer/panels/site.php:135
+msgid "Company Image Logo:"
+msgstr "Company Image Logo:"
+
+#: inc/components/related-posts/class.mt-related-posts.php:169
+msgid "Related posts: "
+msgstr "Related posts: "
+
+#. Template Name of the plugin/theme
+msgid "Page with sidebar on the right"
+msgstr "Page with sidebar on the right"
+
+#. Template Name of the plugin/theme
+msgid "Page width sidebar on the left"
+msgstr "Page with sidebar on the left"
+
+#. Template Name of the plugin/theme
+msgid "Blog Template"
+msgstr "Blog Template"
+
+#: widgets/widget-contact.php:111
+msgid "YouTube Link:"
+msgstr "YouTube Link:"
+
+#: widgets/widget-contact.php:106
+msgid "LinkedIn Link:"
+msgstr "LinkedIn Link:"
+
+#: widgets/widget-contact.php:101
+msgid "Twitter Link:"
+msgstr "Twitter Link:"
+
+#: widgets/widget-contact.php:96
+msgid "Facebook Link:"
+msgstr "Facebook Link:"
+
+#: widgets/widget-contact.php:91
+msgid "E-mail:"
+msgstr "E-mail:"
+
+#: widgets/widget-contact.php:86
+msgid "Phone:"
+msgstr "Phone:"
+
+#: widgets/widget-contact.php:8
+msgid "[MT] - Contact description."
+msgstr "[MT] - Contact description."
+
+#: widgets/widget-contact.php:8
+msgid "[MT] - Contact"
+msgstr "[MT] - Contact"
+
+#: widgets/widget-address.php:54
+msgid "Address:"
+msgstr "Address:"
+
+#: widgets/widget-address.php:46
+msgid "Medplus<br /> 33 Farlane Street<br /> Keilor East<br /> VIC 3033, New York<br />"
+msgstr "Medplus<br /> 33 Farlane Street<br /> Keilor East<br /> VIC 3033, New York<br />"
+
+#: widgets/widget-address.php:8
+msgid "[MT] - Address description."
+msgstr "[MT] - Address description"
+
+#: widgets/widget-address.php:8 widgets/widget-address.php:45
+msgid "[MT] - Address"
+msgstr "[MT] - Address"
+
+#: template-parts/content-single.php:23
+msgid "Pages:"
+msgstr "Pages:"
+
+#: template-parts/content-none.php:13
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: sections/section-page-header.php:18
+msgid "Blog"
+msgstr "Blog"
+
+#: sections/section-page-header.php:16
+msgid "Search results for: %s"
+msgstr "Search Results for: %s"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:71
+msgid "Edit %s"
+msgstr "Edit %s"
+
+#: inc/template-tags.php:64
+msgid "% Comments"
+msgstr "% Comments"
+
+#: inc/template-tags.php:58
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#: inc/template-tags.php:52
+msgid "Posted in %1$s"
+msgstr "Posted in %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "By %s"
+
+#: inc/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Posted on %s"
+
+#: inc/extras.php:142
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: inc/extras.php:138
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: inc/extras.php:137
+msgid "%s"
+msgstr "%s"
+
+#: inc/extras.php:124
+msgid "(Edit)"
+msgstr "(Edit)"
+
+#: inc/extras.php:124
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/extras.php:103
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+
+#: inc/extras.php:99
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Older posts"
+
+#: inc/extras.php:58
+msgid "Comments are off for this post."
+msgstr "Comments are off for this post."
+
+#: inc/extras.php:54 inc/template-tags.php:64
+msgid "1 Comment"
+msgstr "1 Comment"
+
+#: inc/extras.php:52
+msgid " Comments"
+msgstr " Comments"
+
+#: inc/extras.php:50
+msgid "No Comments"
+msgstr "No Comments"
+
+#: inc/customizer/panels/testimonials.php:370
+msgid "Testimonial #5"
+msgstr "Testimonial #5"
+
+#: inc/customizer/panels/testimonials.php:302
+msgid "Testimonial #4"
+msgstr "Testimonial #4"
+
+#: inc/customizer/panels/testimonials.php:234
+msgid "Testimonial #3"
+msgstr "Testimonial #3"
+
+#: inc/customizer/panels/testimonials.php:166
+msgid "Testimonial #2"
+msgstr "Testimonial #2"
+
+#: inc/customizer/panels/testimonials.php:99
+msgid "Testimonial #1 Section description."
+msgstr "Testimonial #1 Section description"
+
+#: inc/customizer/panels/testimonials.php:98
+msgid "Testimonial #1"
+msgstr "Testimonial #1"
+
+#: inc/customizer/panels/testimonials.php:88
+msgid "Image #4:"
+msgstr "Image #4:"
+
+#: inc/customizer/panels/testimonials.php:80
+msgid "Image #3:"
+msgstr "Image #3:"
+
+#: inc/customizer/panels/testimonials.php:72
+msgid "Image #2:"
+msgstr "Image #2:"
+
+#: inc/customizer/panels/features.php:91
+msgid "Book Aappointment URL:"
+msgstr "Book Appointment URL:"
+
+#: inc/customizer/panels/testimonials.php:62
+msgid "Image #1:"
+msgstr "Image #1:"
+
+#: inc/customizer/panels/site.php:344
+msgid "Will be displayed in the footer"
+msgstr "Will be displayed in the footer"
+
+#: inc/customizer/panels/site.php:343
+msgid "Footer Copyright."
+msgstr "Footer Copyright"
+
+#: inc/customizer/panels/site.php:305
+msgid "Change the footer copyright message from here. Note: no HTML allowed."
+msgstr "Change the footer copyright message from here. Note: no HTML allowed."
+
+#: inc/customizer/panels/site.php:304
+msgid "Footer Details"
+msgstr "Footer Details"
+
+#: inc/customizer/panels/site.php:291
+msgid "Book Appointment URL:"
+msgstr "Book Appointment URL:"
+
+#: inc/customizer/panels/site.php:273
+msgid "Phone number"
+msgstr "Phone number"
+
+#: inc/customizer/panels/site.php:217
+msgid "LinkedIN URL"
+msgstr "LinkedIn URL"
+
+#: inc/customizer/panels/site.php:199
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: inc/customizer/panels/site.php:181
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: inc/customizer/panels/site.php:163
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: inc/customizer/panels/site.php:146
+msgid "Contact Details"
+msgstr "Contact Details"
+
+#: inc/customizer/panels/site.php:126
+msgid "This field is best used when you don't have a professional image logo"
+msgstr "This field is best used when you don't have a professional image logo"
+
+#: inc/customizer/panels/site.php:125
+msgid "Enter company name"
+msgstr "Enter company name"
+
+#: inc/customizer/panels/site.php:108
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer/panels/site.php:48
+msgid "You can change the site layout in this area as well as your contact details (the ones displayed in the header & footer) "
+msgstr "You can change the site layout in this area as well as your contact details (the ones displayed in the header & footer) "
+
+#: inc/customizer/panels/our-team.php:325
+msgid "Team Member #4"
+msgstr "Team Member #4"
+
+#: inc/customizer/panels/our-team.php:245
+msgid "Team Member #3"
+msgstr "Team Member #3"
+
+#: inc/customizer/panels/our-team.php:165
+msgid "Team Member #2"
+msgstr "Team Member #2"
+
+#: inc/customizer/panels/our-team.php:124
+#: inc/customizer/panels/our-team.php:204
+#: inc/customizer/panels/our-team.php:284
+#: inc/customizer/panels/our-team.php:364
+#: inc/customizer/panels/testimonials.php:155
+#: inc/customizer/panels/testimonials.php:223
+#: inc/customizer/panels/testimonials.php:291
+#: inc/customizer/panels/testimonials.php:359
+#: inc/customizer/panels/testimonials.php:427
+msgid "Position:"
+msgstr "Position:"
+
+#: inc/customizer/panels/our-team.php:109
+#: inc/customizer/panels/our-team.php:189
+#: inc/customizer/panels/our-team.php:269
+#: inc/customizer/panels/our-team.php:349
+#: inc/customizer/panels/testimonials.php:139
+#: inc/customizer/panels/testimonials.php:207
+#: inc/customizer/panels/testimonials.php:275
+#: inc/customizer/panels/testimonials.php:343
+#: inc/customizer/panels/testimonials.php:411
+msgid "Name:"
+msgstr "Name:"
+
+#: inc/customizer/panels/our-team.php:94 inc/customizer/panels/our-team.php:174
+#: inc/customizer/panels/our-team.php:254
+#: inc/customizer/panels/our-team.php:334
+#: inc/customizer/panels/testimonials.php:124
+#: inc/customizer/panels/testimonials.php:192
+#: inc/customizer/panels/testimonials.php:260
+#: inc/customizer/panels/testimonials.php:328
+#: inc/customizer/panels/testimonials.php:396
+msgid "Image:"
+msgstr "Image:"
+
+#: inc/customizer/panels/our-team.php:86
+msgid "Team Member #1"
+msgstr "Team Member #1"
+
+#: inc/customizer/panels/features.php:356
+msgid "Feature #4"
+msgstr "Feature #4"
+
+#: inc/customizer/panels/features.php:301
+msgid "Feature #3"
+msgstr "Feature #3"
+
+#: inc/customizer/panels/features.php:246
+msgid "Feature #2"
+msgstr "Feature #2"
+
+#: inc/customizer/panels/features.php:180
+#: inc/customizer/panels/features.php:235
+#: inc/customizer/panels/features.php:290
+#: inc/customizer/panels/features.php:345
+#: inc/customizer/panels/features.php:400
+#: inc/customizer/panels/our-team.php:154
+#: inc/customizer/panels/our-team.php:234
+#: inc/customizer/panels/our-team.php:314
+#: inc/customizer/panels/our-team.php:394 inc/customizer/panels/speak.php:79
+msgid "Button URL:"
+msgstr "Button URL:"
+
+#: inc/customizer/panels/features.php:191
+msgid "Feature #1"
+msgstr "Feature #1"
+
+#: inc/customizer/panels/features.php:76 inc/customizer/panels/features.php:150
+#: inc/customizer/panels/features.php:221
+#: inc/customizer/panels/features.php:276
+#: inc/customizer/panels/features.php:331
+#: inc/customizer/panels/features.php:386 inc/customizer/panels/our-team.php:75
+#: inc/customizer/panels/our-team.php:139
+#: inc/customizer/panels/our-team.php:219
+#: inc/customizer/panels/our-team.php:299
+#: inc/customizer/panels/our-team.php:379 inc/customizer/panels/speak.php:63
+#: inc/customizer/panels/testimonials.php:114
+#: inc/customizer/panels/testimonials.php:182
+#: inc/customizer/panels/testimonials.php:250
+#: inc/customizer/panels/testimonials.php:318
+#: inc/customizer/panels/testimonials.php:386
+msgid "Description:"
+msgstr "Description:"
+
+#: inc/customizer/panels/features.php:60 inc/customizer/panels/features.php:135
+#: inc/customizer/panels/features.php:206
+#: inc/customizer/panels/features.php:261
+#: inc/customizer/panels/features.php:316
+#: inc/customizer/panels/features.php:371 inc/customizer/panels/our-team.php:59
+#: inc/customizer/panels/speak.php:47 widgets/widget-address.php:49
+#: widgets/widget-contact.php:81
+msgid "Title:"
+msgstr "Title:"
+
+#: inc/customizer/panels/features.php:120 inc/customizer/panels/news.php:27
+#: inc/customizer/panels/our-team.php:44 inc/customizer/panels/speak.php:31
+#: inc/customizer/panels/testimonials.php:44
+msgid "Show this section?"
+msgstr "Show this section?"
+
+#: inc/customizer/panels/features.php:103 inc/customizer/panels/our-team.php:28
+#: inc/customizer/panels/testimonials.php:26
+msgid "General"
+msgstr "General"
+
+#: inc/customizer/panels/blog.php:268
+msgid "Will be displayed as navigation bullets"
+msgstr "Will be displayed as navigation bullets"
+
+#: inc/customizer/panels/blog.php:267
+msgid "Display pagination controls ?"
+msgstr "Display pagination controls ?"
+
+#: inc/customizer/panels/blog.php:244
+msgid "No more than 4 posts at once;"
+msgstr "No more than 4 posts at once;"
+
+#: inc/customizer/panels/blog.php:243
+msgid "How many blog posts to display in the carousel at once ?"
+msgstr "How many blog posts to display in the carousel at once ?"
+
+#: inc/customizer/panels/blog.php:227
+msgid "Autoplay related carousel ?"
+msgstr "Autoplay related carousel ?"
+
+#: inc/customizer/panels/blog.php:210
+msgid "Show posts date  ?"
+msgstr "Show posts date  ?"
+
+#: inc/customizer/panels/blog.php:194
+msgid "Show posts title in the carousel?"
+msgstr "Show posts title in the carousel?"
+
+#: inc/customizer/panels/blog.php:177
+msgid "Control various related posts settings from here. For a demo-like experience, we recommend you don't change these settings."
+msgstr "Control various related posts settings from here. For a demo-like experience, we recommend you don't change these settings."
+
+#: inc/customizer/panels/blog.php:176
+msgid "Related posts"
+msgstr "Related posts"
+
+#: inc/customizer/panels/blog.php:164
+msgid "Show the post category in the breadcrumb ?"
+msgstr "Show the post category in the breadcrumb ?"
+
+#: inc/customizer/panels/blog.php:163
+msgid "Show post category ?"
+msgstr "Show post category ?"
+
+#: inc/customizer/panels/blog.php:147
+msgid "Various breadcrumb related settings, like: breadcrumb prefix, breadcrumb item separator & breadcrumb menu post category visibility setting."
+msgstr "Various breadcrumb related settings, like: breadcrumb prefix, breadcrumb item separator & breadcrumb menu post category visibility setting."
+
+#: inc/customizer/panels/blog.php:146
+msgid "Breadcrumbs"
+msgstr "Breadcrumbs"
+
+#: inc/customizer/panels/blog.php:135
+msgid "Displayed after the author box"
+msgstr "Displayed after the author box"
+
+#: inc/customizer/panels/blog.php:134
+msgid "Related posts carousel ?"
+msgstr "Related posts carousel ?"
+
+#: inc/customizer/panels/blog.php:118
+msgid "Displayed right at the end of the post"
+msgstr "Displayed right at the end of the post"
+
+#: inc/customizer/panels/blog.php:117
+msgid "Author info box on single blog post"
+msgstr "Author info box on single blog post"
+
+#: inc/customizer/panels/blog.php:100
+msgid "This will disable the breadcrumbs"
+msgstr "This will disable the breadcrumbs"
+
+#: inc/customizer/panels/blog.php:99
+msgid "Breadcrumbs on single blog posts"
+msgstr "Breadcrumbs on single blog posts"
+
+#: inc/customizer/panels/blog.php:82
+msgid "This will disable the tagged with zone."
+msgstr "This will disable the tagged with zone."
+
+#: inc/customizer/panels/blog.php:81
+msgid "Tags meta on single blog post"
+msgstr "Tags meta on single blog post"
+
+#: inc/customizer/panels/blog.php:65
+msgid "This will disable the posted in zone."
+msgstr "This will disable the posted in zone."
+
+#: inc/customizer/panels/blog.php:64
+msgid "Category meta on single blog post"
+msgstr "Category meta on single blog post"
+
+#: inc/customizer/panels/blog.php:48
+msgid "This will disable the posted on zone as well as the author name"
+msgstr "This will disable the posted on zone as well as the author name"
+
+#: inc/customizer/panels/blog.php:47
+msgid "Posted on meta on single blog post"
+msgstr "Posted on meta on single blog post"
+
+#: inc/customizer/panels/blog.php:31
+msgid "This section allows you to control how certain elements are displayed on the blog single page."
+msgstr "This section allows you to control how certain elements are displayed on the blog single page."
+
+#: inc/customizer/panels/blog.php:30
+msgid "Global"
+msgstr "Global"
+
+#: inc/customizer/panels/blog.php:20
+msgid "Control various blog options from here. Most of the options from this panel refer to the blog single page view. If you're not familiar with that term, please perform a Google search."
+msgstr "Control various blog options from here. Most of the options from this panel refer to the blog single page view. If you're not familiar with that term, please perform a Google search."
+
+#: inc/customizer/panels/blog.php:19
+msgid "Single Post Options"
+msgstr "Single Post Options"
+
+#: inc/customizer/panels/advanced.php:72
+msgid "Initial status: enabled"
+msgstr "Initial status: enabled"
+
+#: inc/customizer/panels/advanced.php:71
+msgid "Enable site preloader"
+msgstr "Enable site preloader"
+
+#: inc/components/nav-walker/class.mt-nav-walker.php:126
+msgid "Add a menu"
+msgstr "Add a Menu"
+
+#: inc/components/entry-meta/class.mt-entry-meta.php:104
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#: inc/components/entry-meta/class.mt-entry-meta.php:100
+msgctxt "%s = human-readable time difference"
+msgid "%s ago"
+msgstr "%s ago"
+
+#: inc/components/entry-meta/class.mt-entry-meta.php:82
+msgid "1 min. read"
+msgstr "1 min. read"
+
+#: inc/components/entry-meta/class.mt-entry-meta.php:80
+msgid " min. read"
+msgstr " min. read"
+
+#: inc/components/contact-bar/class.mt-contact-bar.php:80
+#: widgets/widget-contact.php:49
+msgid "YouTube"
+msgstr "YouTube"
+
+#: inc/components/contact-bar/class.mt-contact-bar.php:77
+#: widgets/widget-contact.php:45
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/components/contact-bar/class.mt-contact-bar.php:74
+#: widgets/widget-contact.php:41
+msgid "Twitter"
+msgstr "Twitter"
+
+#: inc/components/contact-bar/class.mt-contact-bar.php:71
+#: widgets/widget-contact.php:37
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/components/breadcrumb/class.mt-breadcrumb.php:66
+msgid "404 - Page not Found"
+msgstr "404 - Page not Found"
+
+#: inc/components/breadcrumb/class.mt-breadcrumb.php:65
+msgid "Search:"
+msgstr "Search:"
+
+#: inc/components/breadcrumb/class.mt-breadcrumb.php:64
+msgid "Tag:"
+msgstr "Tag:"
+
+#: inc/components/breadcrumb/class.mt-breadcrumb.php:63
+#: inc/components/breadcrumb/class.mt-breadcrumb.php:134
+#: inc/components/breadcrumb/class.mt-breadcrumb.php:137
+#: inc/components/nav-walker/class.mt-nav-walker.php:146
+msgid "Home"
+msgstr "Home"
+
+#: inc/components/breadcrumb/class.mt-breadcrumb.php:58
+msgid "You Are Here"
+msgstr "You Are Here"
+
+#: header.php:63
+msgid "Search"
+msgstr "Search"
+
+#. #-#-#-#-#  regina-lite.pot (Regina Lite 1.1.0)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: header.php:21 inc/customizer/panels/site.php:118
+msgid "Regina Lite"
+msgstr "Regina Lite"
+
+#: functions.php:170
+msgid "Footer Sidebar 4"
+msgstr "Footer Sidebar 4"
+
+#: functions.php:160
+msgid "Footer Sidebar 3"
+msgstr "Footer Sidebar 3"
+
+#: functions.php:150
+msgid "Footer Sidebar 2"
+msgstr "Footer Sidebar 2"
+
+#: functions.php:140
+msgid "Footer Sidebar 1"
+msgstr "Footer Sidebar 1"
+
+#: functions.php:130
+msgid "Blog Sidebar"
+msgstr "Blog Sidebar"
+
+#: functions.php:81
+msgid "Secondary Menu"
+msgstr "Secondary Menu"
+
+#: functions.php:80
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: inc/components/nav-walker/class.mt-nav-walker.php:149
+#: inc/customizer/panels/testimonials.php:16
+msgid "Testimonials"
+msgstr "Testimonials"
+
+#: inc/extras.php:236 sections/section-home-features.php:78
+#: sections/section-home-features.php:96 sections/section-home-features.php:114
+#: sections/section-home-features.php:132
+#: sections/section-home-our-team.php:120
+#: sections/section-home-our-team.php:156
+#: sections/section-home-our-team.php:192
+#: sections/section-home-our-team.php:228 template-parts/content-search.php:23
+msgid "Read more"
+msgstr "Read more"
+
+#: header.php:51 inc/customizer/panels/advanced.php:46
+#: sections/section-home-features.php:31 sections/section-home-speak.php:6
+msgid "Book Appointment"
+msgstr "Book Appointment"
+
+#: inc/customizer/panels/speak.php:41 sections/section-home-speak.php:3
+msgid "Speak with our doctors"
+msgstr "Speak with our doctors"
+
+#: inc/customizer/panels/testimonials.php:149
+#: inc/customizer/panels/testimonials.php:217
+#: inc/customizer/panels/testimonials.php:285
+#: inc/customizer/panels/testimonials.php:353
+#: inc/customizer/panels/testimonials.php:421
+#: sections/section-home-testimonials.php:18
+#: sections/section-home-testimonials.php:22
+#: sections/section-home-testimonials.php:26
+#: sections/section-home-testimonials.php:30
+#: sections/section-home-testimonials.php:34
+msgid "Manager @ REQ"
+msgstr "Manager @ REQ"
+
+#: inc/customizer/panels/testimonials.php:133
+#: inc/customizer/panels/testimonials.php:201
+#: inc/customizer/panels/testimonials.php:269
+#: inc/customizer/panels/testimonials.php:337
+#: inc/customizer/panels/testimonials.php:405
+#: sections/section-home-testimonials.php:17
+#: sections/section-home-testimonials.php:21
+#: sections/section-home-testimonials.php:25
+#: sections/section-home-testimonials.php:29
+#: sections/section-home-testimonials.php:33
+msgid "Jenny Royal"
+msgstr "Jenny Royal"
+
+#: inc/customizer/panels/testimonials.php:108
+#: inc/customizer/panels/testimonials.php:176
+#: inc/customizer/panels/testimonials.php:244
+#: inc/customizer/panels/testimonials.php:312
+#: inc/customizer/panels/testimonials.php:380
+#: sections/section-home-testimonials.php:15
+#: sections/section-home-testimonials.php:19
+#: sections/section-home-testimonials.php:23
+#: sections/section-home-testimonials.php:27
+#: sections/section-home-testimonials.php:31
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip."
+
+#: inc/customizer/panels/our-team.php:373 sections/section-home-our-team.php:31
+msgid "Dr. Jenna Crew was born and raised in Texas, USA. He received a Bachelor of Science degree in Chemistry from the University of Houston and a..."
+msgstr "Dr Jenna Crew was born and raised in Texas, USA. He received a Bachelor of Science degree in Chemistry from the University of Houston and a..."
+
+#: inc/customizer/panels/our-team.php:343 sections/section-home-our-team.php:29
+msgid "Dr. Jenna Crew"
+msgstr "Dr Jenna Crew"
+
+#: inc/customizer/panels/our-team.php:293 sections/section-home-our-team.php:26
+msgid "Dr. Mick Harold was born and raised in Texas, USA. He received a Bachelor of Science degree in Chemistry from the University of Houston and a..."
+msgstr "Dr Mick Harold was born and raised in Texas, USA. He received a Bachelor of Science degree in Chemistry from the University of Houston and a..."
+
+#: inc/customizer/panels/our-team.php:263 sections/section-home-our-team.php:24
+msgid "Dr. Mick Harold"
+msgstr "Dr Mick Harold"
+
+#: inc/customizer/panels/our-team.php:213 sections/section-home-our-team.php:21
+msgid "Dr. Amanda Riss was born and raised in Texas, USA. He received a Bachelor of Science degree in Chemistry from the University of Houston and a..."
+msgstr "Dr Amanda Riss was born and raised in Texas, USA. He received a Bachelor of Science degree in Chemistry from the University of Houston and a..."
+
+#: inc/customizer/panels/our-team.php:183 sections/section-home-our-team.php:19
+msgid "Dr. Amanda Riss"
+msgstr "Dr Amanda Riss"
+
+#: inc/customizer/panels/our-team.php:133 sections/section-home-our-team.php:16
+msgid "Dr. Steve Leeson was born and raised in Texas, USA. He received a Bachelor of Science degree in Chemistry from the University of Houston and a..."
+msgstr "Dr Steve Leeson was born and raised in Texas, USA. He received a Bachelor of Science degree in Chemistry from the University of Houston and a..."
+
+#: inc/customizer/panels/our-team.php:118
+#: inc/customizer/panels/our-team.php:198
+#: inc/customizer/panels/our-team.php:278
+#: inc/customizer/panels/our-team.php:358 sections/section-home-our-team.php:15
+#: sections/section-home-our-team.php:20 sections/section-home-our-team.php:25
+#: sections/section-home-our-team.php:30
+msgid "Cardiac Clinic, Primary Healthcare"
+msgstr "Cardiac Clinic, Primary Healthcare"
+
+#: inc/customizer/panels/our-team.php:103 sections/section-home-our-team.php:14
+msgid "Dr. Steve Leeson"
+msgstr "Dr Steve Leeson"
+
+#: inc/customizer/panels/our-team.php:53 sections/section-home-our-team.php:11
+msgid "Our team can help you!"
+msgstr "Our team can help you!"
+
+#: inc/customizer/panels/features.php:365 sections/section-home-features.php:28
+msgid "Nervous System"
+msgstr "Nervous System"
+
+#: inc/customizer/panels/features.php:310 sections/section-home-features.php:25
+msgid "Life Care"
+msgstr "Life Care"
+
+#: inc/customizer/panels/features.php:255 sections/section-home-features.php:22
+msgid "Medical Care"
+msgstr "Medical Care"
+
+#: inc/customizer/panels/features.php:215
+#: inc/customizer/panels/features.php:270
+#: inc/customizer/panels/features.php:325
+#: inc/customizer/panels/features.php:380 sections/section-home-features.php:20
+#: sections/section-home-features.php:23 sections/section-home-features.php:26
+#: sections/section-home-features.php:29
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+
+#: inc/customizer/panels/features.php:200 sections/section-home-features.php:19
+msgid "Free Support"
+msgstr "Free Support"
+
+#: inc/customizer/panels/features.php:144 inc/customizer/panels/our-team.php:69
+#: inc/customizer/panels/speak.php:57 sections/section-home-features.php:16
+#: sections/section-home-our-team.php:12 sections/section-home-speak.php:4
+msgid "We offer various services lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+msgstr "We offer various services lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt."
+
+#: sections/section-home-features.php:13
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+
+#: inc/customizer/panels/features.php:53 sections/section-home-features.php:12
+msgid "We help people, like you."
+msgstr "We help people, like you."
+
+#: comments.php:98
+msgid "Leave a comment to %s"
+msgstr "Leave a comment to %s"
+
+#: comments.php:98 inc/template-tags.php:64
+msgid "Leave a comment"
+msgstr "Leave a comment"
+
+#: comments.php:98
+msgid "Post Comment"
+msgstr "Post Comment"
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Comments are closed."
+
+#: comments.php:35
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "One thought on &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s thoughts on &ldquo;%2$s&rdquo;"
+
+#: comments.php:28 comments.php:52
+msgid "Newer Comments"
+msgstr "Newer Comments"
+
+#: comments.php:27 comments.php:51
+msgid "Older Comments"
+msgstr "Older Comments"
+
+#: comments.php:24 comments.php:48
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#. Author URI of the plugin/theme
+msgid "http://www.machothemes.com/"
+msgstr "http://www.machothemes.com/"
+
+#. Author of the plugin/theme
+msgid "Macho Themes"
+msgstr "Macho Themes"
+
+#. Theme URI of the plugin/theme
+msgid "http://www.machothemes.com/themes/regina-lite/"
+msgstr "http://www.machothemes.com/themes/regina-lite/"
